@@ -1,3 +1,6 @@
+channels:
+  - javascript
+dependencies:
 pip==21.2.3
 streamlit==0.75.0
 pandas==1.0.5
