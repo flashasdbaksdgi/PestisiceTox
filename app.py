@@ -1,3 +1,4 @@
+import pip==21.2.3
 import java
 import streamlit as st
 import pandas as pd
