@@ -1,4 +1,4 @@
-pip install pip==21.2.3
+python -m pip install --upgrade pip
 import java
 import streamlit as st
 import pandas as pd
